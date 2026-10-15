@@ -1,0 +1,9 @@
+﻿<mvvm:MvvmApplication x:Class="WpfApp1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApp1"
+             xmlns:mvvm="clr-namespace:Mvvm.Wpf;assembly=Mvvm.Wpf">
+    <mvvm:MvvmApplication.Resources>
+         
+    </mvvm:MvvmApplication.Resources>
+</mvvm:MvvmApplication>

@@ -1,0 +1,18 @@
+<Solution>
+  <Project Path="BusinessLayer/BusinessLayer.csproj" />
+  <Project Path="Common/Common.csproj" Id="309316a2-b2d2-4180-80f4-02fc2f214a23" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="53e3bb87-a8a7-4813-bbca-775b47be61f5" />
+  <Project Path="DataAccessLayer.Hibernate/DataAccessLayer.Hibernate.csproj" Id="3492add6-a1ed-4ec8-8f84-41e7b7779e4b" />
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" Id="61dbb096-b868-4819-8d75-e1aa7a5817e6" />
+  <Project Path="Dto/Dto.csproj" />
+  <Project Path="Entity.Hibernate/Entity.Hibernate.csproj" />
+  <Project Path="Logging/Logging.csproj" Id="977a8fe2-498f-4fe7-b99e-ade04d8e0c29" />
+  <Project Path="Mvvm.Console/Mvvm.Console.csproj" Id="8401706f-5906-4d79-acaa-1ae60b7e8935" />
+  <Project Path="Mvvm.Winforms/Mvvm.Winforms.csproj" Id="25f95df1-46eb-4b4a-a458-a461ca88a244" />
+  <Project Path="Mvvm.Wpf/Mvvm.Wpf.csproj" Id="be0c18cd-5b8f-484a-b2bf-a47f993d391e" />
+  <Project Path="Mvvm/Mvvm.csproj" Id="15544a1c-ed4f-4846-a5d7-6bff590dad65" />
+  <Project Path="TestProject1/TestProject1.csproj" Id="ff9d495e-8a87-47a7-9e33-b11981d56474" />
+  <Project Path="UserManagement/UserManagement.csproj" Id="7cf3e8f0-3cf6-4f46-a418-596375b66d29" />
+  <Project Path="WinFormsApp1/WinFormsApp1.csproj" Id="86e0a425-35dd-4093-932f-f711020dd0f4" />
+  <Project Path="WpfApp1/WpfApp1.csproj" Id="4337c4c6-6182-4e3a-af7c-52f68591b846" />
+</Solution>
